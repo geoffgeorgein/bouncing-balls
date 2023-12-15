@@ -1,4 +1,4 @@
-# Bouncy Ball Game with User-Controlled Evil Circle
+# Bouncy Ball Game 
 
 Welcome to the Bouncy Ball Game with a twist! In this project, I've enhanced our classic bouncy ball demo to make it more interactive and challenging.
 
@@ -43,7 +43,7 @@ To run the game locally, follow these steps:
 The project structure is organized as follows:
 
 - `index.html`: The main HTML file containing the game canvas and script references.
-- `style.css`: Stylesheet for the game layout.
+- `styles.css`: Stylesheet for the game layout.
 - `index.js`: JavaScript file containing the game logic, including the Shape object, bouncing balls, and user-controlled evil circle.
 
 

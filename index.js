@@ -15,7 +15,6 @@ function random(min,max) {
   return num;
 };
 
-// function to generate random RGB color value
 
 function randomRGB() {
   return `rgb(${random(0, 255)},${random(0, 255)},${random(0, 255)})`;
